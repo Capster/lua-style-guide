@@ -114,7 +114,7 @@ All inline comments should start with a `--` and a single space.
 The use of inline comments should be limited, because their existence is typically a sign of a code smell.
 
 ```lua
-x = x + 1 # One second prediction
+x = x + 1 -- One second prediction
 ```
 
 <a name="strings"/>
