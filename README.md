@@ -1,5 +1,3 @@
-# Lua Style Guide
-
 <a name="code_layout"/>
 ## Code layout
 
