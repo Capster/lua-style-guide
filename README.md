@@ -1,4 +1,4 @@
-## Code layout
+# Code layout
 
 ### Tabs or Spaces?
 
